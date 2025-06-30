@@ -18,3 +18,12 @@ Neste repositório, você encontrará:
 - 🧠 **Conceitos fundamentais da computação**
 
 ---
+
+## 🧰 Tecnologias e Linguagens Utilizadas
+
+- Linux
+- Shell
+- HTML/CSS
+- Git e GitHub
+
+---
